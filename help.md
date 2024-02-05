@@ -17,3 +17,11 @@ git push -u origin main
     - clcik on `actions`, wait until the build is succesful
     - once that is done, click onto the link to see the deployed website
 
+- tips for the html tags
+    - header.header
+        - ` <header class="header"></header>`
+    - nav.nav.bg_grid
+        - `<nav class="nav bg_grid"></nav>`
+    - .nav_menu
+        - `<div class="nav_menu"></div>`
+        
